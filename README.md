@@ -1,8 +1,4 @@
-# 👋 Hi there, I'm Hyan Nguyen!
-
-> 🎓 *Student & Tech Enthusiast • Passionate about Python & Coding*
-
----
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30&height=180&section=header&text=Hyan%20Nguyen&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Student%20%7C%20Exploring%20Python%20%26%20Data%20World&descSize=18&descAlignY=68)
 
 ### 💫 About Me
 
@@ -17,14 +13,26 @@ class HyanNguyen:
         return "Welcome to my GitHub profile! Thanks for stopping by."
 ```
 
-- 🎓 **About me:** I'm a student currently exploring programming, data analysis, and software tools.
-- 🌱 **Currently learning:** Python libraries, data analysis workflows, and machine learning fundamentals.
-- 🚀 **Goals:** Continuously learning, building hands-on projects, and improving problem-solving skills.
-- 💡 **Interests:** Clean code, automation, and turning ideas into practical projects.
+- 🎓 **Who I am:** A student passionate about software development, data exploration, and problem-solving.
+- 🌱 **Currently exploring:** Python libraries, data analysis workflows, and machine learning fundamentals.
+- 🚀 **Goals:** Building hands-on projects, writing clean code, and leveling up technical skills day by day.
+- 💡 **Interests:** Data-driven solutions, automation scripts, and interactive tools.
 
 ---
 
-### 💻 Tech Stack & Skills
+### 📚 Learning Roadmap & Focus Areas
+
+| Area | Key Topics & Tools | Status |
+| :--- | :--- | :---: |
+| **Python Core** | OOP, Scripting, Data Structures | 🚀 In Progress |
+| **Data Processing** | Data Cleaning, Wrangling (Pandas, NumPy) | 🚀 In Progress |
+| **Data Visualization** | Plots, Statistical Charts (Matplotlib) | 🚀 In Progress |
+| **Machine Learning** | Preprocessing, Regression, Classification (Scikit-Learn) | 📖 Exploring |
+| **Database & Tools** | Relational DBs (SQLite), Version Control (Git/GitHub) | 🛠️ In Use |
+
+---
+
+### 💻 Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -43,6 +51,15 @@ class HyanNguyen:
 
 ---
 
+### 🌐 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hyan-Nguyen)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+---
+
 <div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
+  <br><br>
   <sub>⭐️ Profile created with care by <b>Hyan Nguyen</b></sub>
 </div>
