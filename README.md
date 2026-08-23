@@ -1,4 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30&height=180&section=header&text=Hyan%20Nguyen&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Student%20%7C%20Exploring%20Python%20%26%20Data%20World&descSize=18&descAlignY=68)
+# 👋 Hi there, I'm Hyan Nguyen!
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3776AB&width=450&lines=Student+%26+Tech+Enthusiast;Exploring+Python+%26+Data+Science;Building+projects+%26+learning+every+day)](https://git.io/typing-svg)
+
+---
 
 ### 💫 About Me
 
@@ -48,13 +52,6 @@ class HyanNguyen:
 ![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=gnubash&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
----
-
-### 🌐 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hyan-Nguyen)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ---
 
